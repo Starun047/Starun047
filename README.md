@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Savva Gopi Sree Venkata Tarun</h1>
 <h3 align="center">Dedicated and goal-oriented professional aspiring to excel in Data Analysis and Software Engineering roles. Skilled in data visualization, analysis, software development, and a keen learner in machine learning. Passionate about leveraging expertise to contribute to organizational growth and success.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F5769fc401b631bab1addb2ab%2F1541580611624-TE64QGKRJG8SWAIUS7NS%2Fke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o%2Fcoding-freak.gif&tbnid=dbrfb5dvHO4gVM&vet=12ahUKEwjxrMakst-DAxUmSWwGHbKyBakQMygJegQIARBn..i&imgrefurl=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&docid=CJdgcKdcN0j58M&w=800&h=600&q=hd%20animated%20coding%20images&ved=2ahUKEwjxrMakst-DAxUmSWwGHbKyBakQMygJegQIARBn">
+<img align="right" alt="hi" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&tbnid=ZmOH4FBlhx83-M&vet=12ahUKEwiuiYGvtN-DAxWp5TgGHdyACtsQMygQegQIARB7..i&imgrefurl=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&docid=hyRv46xL2D6dsM&w=800&h=600&q=hd%20animated%20coding%20images&ved=2ahUKEwiuiYGvtN-DAxWp5TgGHdyACtsQMygQegQIARB7">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=starun047&label=Profile%20views&color=0e75b6&style=flat" alt="starun047" /> </p>
 
