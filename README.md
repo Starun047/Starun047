@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Deep Learning Models**
 
-- 🌱 I’m currently learning **Deep Learning, API.**
+- 🌱 I’m currently learning **Data Alaytics, Business Analytics.**
 
 - 👯 I’m looking to collaborate on **Data Analytics**
 
