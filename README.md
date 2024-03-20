@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=starun047&label=Profile%20views&color=0e75b6&style=flat" alt="starun047" /> </p>
 
-- 🔭 I’m currently working on **Deep Learning Models**
+- 🔭 I’m currently working on **Business Analytics**
 
-- 🌱 I’m currently learning **Data Alaytics, Business Analytics.**
+- 🌱 I’m currently learning **Data Analytics, Business Analytics.**
 
 - 👯 I’m looking to collaborate on **Data Analytics**
 
