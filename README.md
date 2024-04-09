@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5616AQG6Oe9IrcPv8g/profile-displaybackgroundimage-shrink_350_1400/0/1691335367231?e=1710979200&v=beta&t=IrX0YNzAh5KNkA0eYgMk5_OFLQ1BeBuuMCLxa6oVgPw)]
+[![MasterHead](https://media.licdn.com/dms/image/D5616AQG6Oe9IrcPv8g/profile-displaybackgroundimage-shrink_350_1400/0/1691335367231?e=1718236800&v=beta&t=vSka2-uNr2LqEn6Hi98O8xqDPkce40kAXLplgl-TlAo)]
 
 <h1 align="center">Hi 👋, I'm Savva Gopi Sree Venkata Tarun</h1>
 <h3 align="center">Dedicated and goal-oriented professional aspiring to excel in Data Analysis and Software Engineering roles. Skilled in data visualization, analysis, software development, and a keen learner in machine learning. Passionate about leveraging expertise to contribute to organizational growth and success.</h3>
