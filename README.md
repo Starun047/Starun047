@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Data Analytics**
 
-- 💬 Ask me about **HTML, CSS, JS, Python**
+- 💬 Ask me about **HTML, CSS, JS, Python, Data Analytics, Business Analytics**
 
 - 📫 How to reach me **tarun.savva@gmail.com**
 
